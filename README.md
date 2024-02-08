@@ -21,7 +21,7 @@ ZR-BOT-MD Multi Device Whatsapp Bot.
 
 1. Fork The Repo
     <br>
-<a href="https://github.com/LuciZR/ZR-BOT-MD/fork"><img title="ZR-BOT-MD" src="https://img.shields.io/badge/FORK ABHISHEK SER-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/LuciZR/ZR-BOT-MD/fork"><img title="ZR-BOT-MD" src="https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black"></a>
 
 2. Scan The Qr Code And Upload abhi.data.json To Your Fork🎯(Will Recieve It On Your Bot Number After Scanning)
     <br>
