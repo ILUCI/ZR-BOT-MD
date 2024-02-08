@@ -4,7 +4,7 @@
   
 <p align="center">  
   <a href="https://youtube.com/@comedymelodych8468">
-    <img alt=LuciZR height="300" src="https://replicate.delivery/pbxt/QbP6Fh3ZXwKON9SCB70ERGwwgeeSbztwKIOIzhUeXFkwnFHiA/out.png">
+    <img alt=LuciZR height="300" src="https://i.imgur.com/vi8lX8V.png">
    
 </a> 
     
